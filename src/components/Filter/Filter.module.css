@@ -1,0 +1,26 @@
+.price {
+  margin: 15px;
+  font-size: 17px;
+  font-weight: 600;
+  color: purple;
+}
+
+.input {
+  width: 100px;
+  padding: 6px 10px;
+  margin-right: 15px;
+  margin-left: 15px;
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 5px;
+}
+
+.select {
+  width: 300px;
+  margin-left: 15px;
+}
+
+.select__country {
+  font-size: 17px;
+  font-weight: 600;
+  color: purple;
+}

@@ -1,0 +1,49 @@
+.title {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.item {
+  width: 300px;
+  list-style: none;
+  padding: 10px 20px;
+  margin: 20px 20px;
+  box-shadow: inset rgba(0, 0, 0, 0.5) -3px -3px 8px,
+    inset rgba(255, 255, 255, 0.9) 3px 3px 8px,
+    rgba(0, 0, 0, 0.8) 3px 3px 8px -3px;
+}
+
+.product_item {
+  text-align: center;
+}
+
+.basket {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.filter {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.basket_item {
+  margin-bottom: 30px;
+}
+
+.total {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.total_count {
+  margin-right: 20px;
+}
